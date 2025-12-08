@@ -1,46 +1,6 @@
 [
   {
     "tvg_id": "",
-    "tvg_name": "AUS: BEIN SPORTS 1 HD",
-    "tvg_logo": "https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa.png",
-    "group_title": "AUSTRALIA _ أستراليا",
-    "name": "AUS: BEIN SPORTS 1 HD",
-    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/415886.ts"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "AUS: BEIN SPORTS 2 HD",
-    "tvg_logo": "https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png",
-    "group_title": "AUSTRALIA _ أستراليا",
-    "name": "AUS: BEIN SPORTS 2 HD",
-    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/415885.ts"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "AUS: BEIN SPORTS HD 3",
-    "tvg_logo": "https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png",
-    "group_title": "AUSTRALIA _ أستراليا",
-    "name": "AUS: BEIN SPORTS HD 3",
-    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/415884.ts"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "Ar: beIN SPORTS FHD (H.265)",
-    "tvg_logo": "https://tera-adria.com/wp-content/uploads/2020/12/Hevc-logo-768x576.png",
-    "group_title": "ARABIC  _  عربي",
-    "name": "Ar: beIN SPORTS FHD (H.265)",
-    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/419795.ts"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "Ar: beIN SPORTS NEWS FHD (H.265)",
-    "tvg_logo": "https://tera-adria.com/wp-content/uploads/2020/12/Hevc-logo-768x576.png",
-    "group_title": "ARABIC  _  عربي",
-    "name": "Ar: beIN SPORTS NEWS FHD (H.265)",
-    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/419794.ts"
-  },
-  {
-    "tvg_id": "",
     "tvg_name": "BEIN Sports 1 1080P",
     "tvg_logo": "https://onixtv.online/wp-content/uploads/2025/10/bein4kss.png",
     "group_title": "BeIN Sports 4K (SS) _ بين سبورت",
@@ -951,4 +911,5 @@
     "name": "beIN Sports 2 ID",
     "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/419476.ts"
   }
+
 ]
