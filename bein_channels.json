@@ -71,7 +71,14 @@
     "name": "beIN SPORTS 9",
     "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/427164.ts"
   },
-  
+  {
+    "tvg_id": "",
+    "tvg_name": "SP: beIN SPORTS NEWS FHD (H.265)",
+    "tvg_logo": "https://raw.githubusercontent.com/obada256/obada256.github.io/main/news.jpg",
+    "group_title": "beIN SPORTS (1080)",
+    "name": "SP: beIN SPORTS NEWS",
+    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/409172.ts"
+  },
 
 
   {
@@ -567,6 +574,7 @@
   }
   
 ]
+
 
 
 
