@@ -2,7 +2,7 @@
   {
     "tvg_id": "",
     "tvg_name": "beIN SPORTS 1",
-    "tvg_logo": "https://raw.githubusercontent.com/Obada256/Obada256.github.io/main/be1.png",
+    "tvg_logo": "https://raw.githubusercontent.com/Obada256/Obada256.github.io/main/sports/be1.png",
     "group_title": "beIN SPORTS (1080)",
     "name": "beIN SPORTS 1",
     "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/427156.ts"
@@ -10,7 +10,7 @@
   {
     "tvg_id": "",
     "tvg_name": "beIN SPORTS 2",
-    "tvg_logo": "https://raw.githubusercontent.com/Obada256/Obada256.github.io/main/be2.png",
+    "tvg_logo": "https://raw.githubusercontent.com/Obada256/Obada256.github.io/main/sports/be2.png",
     "group_title": "beIN SPORTS (1080)",
     "name": "beIN SPORTS 2",
     "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/427157.ts"
@@ -18,7 +18,7 @@
   {
     "tvg_id": "",
     "tvg_name": "beIN SPORTS 3",
-    "tvg_logo": "https://raw.githubusercontent.com/Obada256/Obada256.github.io/main/be3.png",
+    "tvg_logo": "https://raw.githubusercontent.com/Obada256/Obada256.github.io/main/sports/be3.png",
     "group_title": "beIN SPORTS (1080)",
     "name": "beIN SPORTS 3",
     "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/427158.ts"
@@ -26,7 +26,7 @@
   {
     "tvg_id": "",
     "tvg_name": "beIN SPORTS 4",
-    "tvg_logo": "https://raw.githubusercontent.com/Obada256/Obada256.github.io/main/be4.png",
+    "tvg_logo": "https://raw.githubusercontent.com/Obada256/Obada256.github.io/main/sports/be4.png",
     "group_title": "beIN SPORTS (1080)",
     "name": "beIN SPORTS 4",
     "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/427159.ts"
@@ -34,7 +34,7 @@
   {
     "tvg_id": "",
     "tvg_name": "beIN SPORTS 5",
-    "tvg_logo": "https://raw.githubusercontent.com/obada256/obada256.github.io/main/be5.png",
+    "tvg_logo": "https://raw.githubusercontent.com/obada256/obada256.github.io/main/sports/be5.png",
     "group_title": "beIN SPORTS (1080)",
     "name": "beIN SPORTS 5",
     "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/427160.ts"
@@ -42,7 +42,7 @@
   {
     "tvg_id": "",
     "tvg_name": "beIN SPORTS 6",
-    "tvg_logo": "https://raw.githubusercontent.com/obada256/obada256.github.io/main/be6.png",
+    "tvg_logo": "https://raw.githubusercontent.com/obada256/obada256.github.io/main/sports/be6.png",
     "group_title": "beIN SPORTS (1080)",
     "name": "beIN SPORTS 6",
     "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/427161.ts"
@@ -50,7 +50,7 @@
   {
     "tvg_id": "",
     "tvg_name": "beIN SPORTS 7",
-    "tvg_logo": "https://raw.githubusercontent.com/obada256/obada256.github.io/main/be7.png",
+    "tvg_logo": "https://raw.githubusercontent.com/obada256/obada256.github.io/main/sports/be7.png",
     "group_title": "beIN SPORTS (1080)",
     "name": "beIN SPORTS 7",
     "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/427162.ts"
@@ -58,7 +58,7 @@
   {
     "tvg_id": "",
     "tvg_name": "beIN SPORTS 8",
-    "tvg_logo": "https://raw.githubusercontent.com/obada256/obada256.github.io/main/be8.png",
+    "tvg_logo": "https://raw.githubusercontent.com/obada256/obada256.github.io/main/sports/be8.png",
     "group_title": "beIN SPORTS (1080)",
     "name": "beIN SPORTS 8",
     "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/427163.ts"
@@ -66,7 +66,7 @@
   {
     "tvg_id": "",
     "tvg_name": "beIN SPORTS 9",
-    "tvg_logo": "https://raw.githubusercontent.com/obada256/obada256.github.io/main/be9.png",
+    "tvg_logo": "https://raw.githubusercontent.com/obada256/obada256.github.io/main/sports/be9.png",
     "group_title": "beIN SPORTS (1080)",
     "name": "beIN SPORTS 9",
     "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/427164.ts"
@@ -74,7 +74,7 @@
   {
     "tvg_id": "",
     "tvg_name": "SP: beIN SPORTS NEWS FHD (H.265)",
-    "tvg_logo": "https://raw.githubusercontent.com/obada256/obada256.github.io/main/news.jpg",
+    "tvg_logo": "https://raw.githubusercontent.com/obada256/obada256.github.io/main/sports/news.jpg",
     "group_title": "beIN SPORTS (1080)",
     "name": "beIN SPORTS NEWS",
     "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/409172.ts"
@@ -87,7 +87,7 @@
   {
     "tvg_id": "",
     "tvg_name": "beIN SPORTS 1 720P",
-    "tvg_logo": "https://raw.githubusercontent.com/obada256/obada256.github.io/main/be1.png",
+    "tvg_logo": "https://raw.githubusercontent.com/obada256/obada256.github.io/main/sports/be1.png",
     "group_title": "beIN SPORTS (720)",
     "name": "beIN SPORTS 1",
     "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/427138.ts"
@@ -95,7 +95,7 @@
   {
     "tvg_id": "",
     "tvg_name": "beIN SPORTS 2 720P",
-    "tvg_logo": "https://raw.githubusercontent.com/obada256/obada256.github.io/main/be2.png",
+    "tvg_logo": "https://raw.githubusercontent.com/obada256/obada256.github.io/main/sports/be2.png",
     "group_title": "beIN SPORTS (720)",
     "name": "beIN SPORTS 2",
     "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/427139.ts"
@@ -104,7 +104,7 @@
   {
     "tvg_id": "",
     "tvg_name": "beIN SPORTS 3 720P",
-    "tvg_logo": "https://raw.githubusercontent.com/obada256/obada256.github.io/main/be3.png",
+    "tvg_logo": "https://raw.githubusercontent.com/obada256/obada256.github.io/main/sports/be3.png",
     "group_title": "beIN SPORTS (720)",
     "name": "beIN SPORTS 3",
     "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/427140.ts"
@@ -113,7 +113,7 @@
   {
     "tvg_id": "",
     "tvg_name": "beIN SPORTS 4 720P",
-    "tvg_logo": "https://raw.githubusercontent.com/obada256/obada256.github.io/main/be4.png",
+    "tvg_logo": "https://raw.githubusercontent.com/obada256/obada256.github.io/main/sports/be4.png",
     "group_title": "beIN SPORTS (720)",
     "name": "beIN SPORTS 4",
     "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/427141.ts"
@@ -123,7 +123,7 @@
   {
     "tvg_id": "",
     "tvg_name": "beIN SPORTS 5 720P",
-    "tvg_logo": "https://raw.githubusercontent.com/obada256/obada256.github.io/main/be5.png",
+    "tvg_logo": "https://raw.githubusercontent.com/obada256/obada256.github.io/main/sports/be5.png",
     "group_title": "beIN SPORTS (720)",
     "name": "beIN SPORTS 5",
     "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/427142.ts"
@@ -132,7 +132,7 @@
   {
     "tvg_id": "",
     "tvg_name": "beIN SPORTS 6 720P",
-    "tvg_logo": "https://raw.githubusercontent.com/obada256/obada256.github.io/main/be6.png",
+    "tvg_logo": "https://raw.githubusercontent.com/obada256/obada256.github.io/main/sports/be6.png",
     "group_title": "beIN SPORTS (720)",
     "name": "beIN SPORTS 6",
     "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/427143.ts"
@@ -141,7 +141,7 @@
   {
     "tvg_id": "",
     "tvg_name": "beIN SPORTS 7 720P",
-    "tvg_logo": "https://raw.githubusercontent.com/obada256/obada256.github.io/main/be7.png",
+    "tvg_logo": "https://raw.githubusercontent.com/obada256/obada256.github.io/main/sports/be7.png",
     "group_title": "beIN SPORTS (720)",
     "name": "beIN SPORTS 7",
     "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/427144.ts"
@@ -150,7 +150,7 @@
   {
     "tvg_id": "",
     "tvg_name": "beIN SPORTS 8 720P",
-    "tvg_logo": "https://raw.githubusercontent.com/obada256/obada256.github.io/main/be8.png",
+    "tvg_logo": "https://raw.githubusercontent.com/obada256/obada256.github.io/main/sports/be8.png",
     "group_title": "beIN SPORTS (720)",
     "name": "beIN SPORTS 8",
     "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/427145.ts"
@@ -159,7 +159,7 @@
   {
     "tvg_id": "",
     "tvg_name": "beIN SPORTS 9 720P",
-    "tvg_logo": "https://raw.githubusercontent.com/obada256/obada256.github.io/main/be9.png",
+    "tvg_logo": "https://raw.githubusercontent.com/obada256/obada256.github.io/main/sports/be9.png",
     "group_title": "beIN SPORTS (720)",
     "name": "beIN SPORTS 9",
     "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/427146.ts"
@@ -167,7 +167,7 @@
   {
     "tvg_id": "",
     "tvg_name": "SP: beIN SPORTS HD",
-    "tvg_logo": "https://raw.githubusercontent.com/obada256/obada256.github.io/main/bs.png",
+    "tvg_logo": "https://raw.githubusercontent.com/obada256/obada256.github.io/main/sports/bs.png",
     "group_title": "beIN SPORTS (720)",
     "name": "beIN SPORTS",
     "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/409133.ts"
@@ -175,7 +175,7 @@
   {
     "tvg_id": "",
     "tvg_name": "bein Sport News HD",
-    "tvg_logo": "https://raw.githubusercontent.com/obada256/obada256.github.io/main/news.jpg",
+    "tvg_logo": "https://raw.githubusercontent.com/obada256/obada256.github.io/main/sports/news.jpg",
     "group_title": "beIN SPORTS (720)",
     "name": "beIN SPORTS NEWS",
     "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/427222.ts"
@@ -189,7 +189,7 @@
   {
     "tvg_id": "",
     "tvg_name": "beIN SPORTS 1 576P",
-    "tvg_logo": "https://raw.githubusercontent.com/obada256/obada256.github.io/main/be1.png",
+    "tvg_logo": "https://raw.githubusercontent.com/obada256/obada256.github.io/main/sports/be1.png",
     "group_title": "beIN SPORTS (576)",
     "name": "beIN SPORTS 1",
     "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/427072.ts"
@@ -197,7 +197,7 @@
   {
     "tvg_id": "",
     "tvg_name": "beIN SPORTS 2 576P",
-    "tvg_logo": "https://raw.githubusercontent.com/obada256/obada256.github.io/main/be2.png",
+    "tvg_logo": "https://raw.githubusercontent.com/obada256/obada256.github.io/main/sports/be2.png",
     "group_title": "beIN SPORTS (576)",
     "name": "beIN SPORTS 2",
     "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/427073.ts"
@@ -205,7 +205,7 @@
   {
     "tvg_id": "",
     "tvg_name": "beIN SPORTS 3 576P",
-    "tvg_logo": "https://raw.githubusercontent.com/obada256/obada256.github.io/main/be3.png",
+    "tvg_logo": "https://raw.githubusercontent.com/obada256/obada256.github.io/main/sports/be3.png",
     "group_title": "beIN SPORTS (576)",
     "name": "beIN SPORTS 3",
     "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/427074.ts"
@@ -213,7 +213,7 @@
   {
     "tvg_id": "",
     "tvg_name": "beIN SPORTS 4 576P",
-    "tvg_logo": "https://raw.githubusercontent.com/obada256/obada256.github.io/main/be4.png",
+    "tvg_logo": "https://raw.githubusercontent.com/obada256/obada256.github.io/main/sports/be4.png",
     "group_title": "beIN SPORTS (576)",
     "name": "beIN SPORTS 4",
     "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/427075.ts"
@@ -221,7 +221,7 @@
   {
     "tvg_id": "",
     "tvg_name": "beIN SPORTS 5 576P",
-    "tvg_logo": "https://raw.githubusercontent.com/obada256/obada256.github.io/main/be5.png",
+    "tvg_logo": "https://raw.githubusercontent.com/obada256/obada256.github.io/main/sports/be5.png",
     "group_title": "beIN SPORTS (576)",
     "name": "beIN SPORTS 5",
     "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/427076.ts"
@@ -229,7 +229,7 @@
   {
     "tvg_id": "",
     "tvg_name": "beIN SPORTS 6 576P",
-    "tvg_logo": "https://raw.githubusercontent.com/obada256/obada256.github.io/main/be6.png",
+    "tvg_logo": "https://raw.githubusercontent.com/obada256/obada256.github.io/main/sports/be6.png",
     "group_title": "beIN SPORTS (576)",
     "name": "beIN SPORTS 6",
     "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/427077.ts"
@@ -237,7 +237,7 @@
   {
     "tvg_id": "",
     "tvg_name": "beIN SPORTS 7 576P",
-    "tvg_logo": "https://raw.githubusercontent.com/obada256/obada256.github.io/main/be7.png",
+    "tvg_logo": "https://raw.githubusercontent.com/obada256/obada256.github.io/main/sports/be7.png",
     "group_title": "beIN SPORTS (576)",
     "name": "beIN SPORTS 7",
     "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/427078.ts"
@@ -245,7 +245,7 @@
   {
     "tvg_id": "",
     "tvg_name": "beIN SPORTS 8 576P",
-    "tvg_logo": "https://raw.githubusercontent.com/obada256/obada256.github.io/main/be8.png",
+    "tvg_logo": "https://raw.githubusercontent.com/obada256/obada256.github.io/main/sports/be8.png",
     "group_title": "beIN SPORTS (576)",
     "name": "beIN SPORTS 8",
     "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/427079.ts"
@@ -253,12 +253,13 @@
   {
     "tvg_id": "",
     "tvg_name": "beIN SPORTS 9 576P",
-    "tvg_logo": "https://raw.githubusercontent.com/obada256/obada256.github.io/main/be9.png",
+    "tvg_logo": "https://raw.githubusercontent.com/obada256/obada256.github.io/main/sports/be9.png",
     "group_title": "beIN SPORTS (576)",
     "name": "beIN SPORTS 9",
     "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/427080.ts"
   }
   
 ]
+
 
 
