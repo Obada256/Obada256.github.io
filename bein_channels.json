@@ -83,38 +83,100 @@
 
 
   
-  {
-    "tvg_id": "",
-    "tvg_name": "beIN SPORTS 1 576P",
-    "tvg_logo": "https://onixtv.online/wp-content/uploads/2025/10/beinsdss.png",
-    "group_title": "beIN SPORTS SD",
-    "name": "beIN SPORTS 1 576P",
-    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/427072.ts"
-  },
+  
   {
     "tvg_id": "",
     "tvg_name": "beIN SPORTS 1 720P",
-    "tvg_logo": "https://onixtv.online/wp-content/uploads/2025/10/beinhdss.png",
-    "group_title": "beIN SPORTS HD",
-    "name": "beIN SPORTS 1 720P",
+    "tvg_logo": "https://raw.githubusercontent.com/obada256/obada256.github.io/main/be1.png",
+    "group_title": "beIN SPORTS (720)",
+    "name": "beIN SPORTS 1",
     "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/427138.ts"
   },
   {
     "tvg_id": "",
-    "tvg_name": "beIN SPORTS 1 En hd",
-    "tvg_logo": "https://onixtv.online/wp-content/uploads/2025/10/beinhdss.png",
-    "group_title": "beIN SPORTS HD",
-    "name": "beIN SPORTS 1 En hd",
-    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/427147.ts"
+    "tvg_name": "beIN SPORTS 2 720P",
+    "tvg_logo": "https://raw.githubusercontent.com/obada256/obada256.github.io/main/be2.png",
+    "group_title": "beIN SPORTS (720)",
+    "name": "beIN SPORTS 2",
+    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/427139.ts"
+  },
+  
+  {
+    "tvg_id": "",
+    "tvg_name": "beIN SPORTS 3 720P",
+    "tvg_logo": "https://raw.githubusercontent.com/obada256/obada256.github.io/main/be3.png",
+    "group_title": "beIN SPORTS (720)",
+    "name": "beIN SPORTS 3",
+    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/427140.ts"
+  },
+  
+  {
+    "tvg_id": "",
+    "tvg_name": "beIN SPORTS 4 720P",
+    "tvg_logo": "https://raw.githubusercontent.com/obada256/obada256.github.io/main/be4.png",
+    "group_title": "beIN SPORTS (720)",
+    "name": "beIN SPORTS 4",
+    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/427141.ts"
+  },
+  
+  
+  {
+    "tvg_id": "",
+    "tvg_name": "beIN SPORTS 5 720P",
+    "tvg_logo": "https://raw.githubusercontent.com/obada256/obada256.github.io/main/be5.png",
+    "group_title": "beIN SPORTS (720)",
+    "name": "beIN SPORTS 5",
+    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/427142.ts"
+  },
+  
+  {
+    "tvg_id": "",
+    "tvg_name": "beIN SPORTS 6 720P",
+    "tvg_logo": "https://raw.githubusercontent.com/obada256/obada256.github.io/main/be6.png",
+    "group_title": "beIN SPORTS (720)",
+    "name": "beIN SPORTS 6",
+    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/427143.ts"
+  },
+  
+  {
+    "tvg_id": "",
+    "tvg_name": "beIN SPORTS 7 720P",
+    "tvg_logo": "https://raw.githubusercontent.com/obada256/obada256.github.io/main/be7.png",
+    "group_title": "beIN SPORTS (720)",
+    "name": "beIN SPORTS 7",
+    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/427144.ts"
+  },
+  
+  {
+    "tvg_id": "",
+    "tvg_name": "beIN SPORTS 8 720P",
+    "tvg_logo": "https://raw.githubusercontent.com/obada256/obada256.github.io/main/be8.png",
+    "group_title": "beIN SPORTS (720)",
+    "name": "beIN SPORTS 8",
+    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/427145.ts"
+  },
+
+  {
+    "tvg_id": "",
+    "tvg_name": "beIN SPORTS 9 720P",
+    "tvg_logo": "https://raw.githubusercontent.com/obada256/obada256.github.io/main/be9.png",
+    "group_title": "beIN SPORTS (720)",
+    "name": "beIN SPORTS 9",
+    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/427146.ts"
   },
   {
     "tvg_id": "",
-    "tvg_name": "beIN SPORTS 1 FR",
-    "tvg_logo": "https://onixtv.online/wp-content/uploads/2025/10/beinhdss.png",
-    "group_title": "beIN SPORTS HD",
-    "name": "beIN SPORTS 1 FR",
-    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/427150.ts"
+    "tvg_name": "bein Sport News HD",
+    "tvg_logo": "https://raw.githubusercontent.com/obada256/obada256.github.io/main/news.jpg",
+    "group_title": "beIN SPORTS (720)",
+    "name": "beIN SPORTS NEWS",
+    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/427222.ts"
   },
+
+
+
+
+
   
   {
     "tvg_id": "",
@@ -126,27 +188,11 @@
   },
   {
     "tvg_id": "",
-    "tvg_name": "beIN SPORTS 2 720P",
-    "tvg_logo": "https://onixtv.online/wp-content/uploads/2025/10/beinhdss.png",
-    "group_title": "beIN SPORTS HD",
-    "name": "beIN SPORTS 2 720P",
-    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/427139.ts"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "beIN SPORTS 2 En hd",
-    "tvg_logo": "https://onixtv.online/wp-content/uploads/2025/10/beinhdss.png",
-    "group_title": "beIN SPORTS HD",
-    "name": "beIN SPORTS 2 En hd",
-    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/427148.ts"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "beIN SPORTS 2 FR",
-    "tvg_logo": "https://onixtv.online/wp-content/uploads/2025/10/beinhdss.png",
-    "group_title": "beIN SPORTS HD",
-    "name": "beIN SPORTS 2 FR",
-    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/427151.ts"
+    "tvg_name": "beIN SPORTS 1 576P",
+    "tvg_logo": "https://onixtv.online/wp-content/uploads/2025/10/beinsdss.png",
+    "group_title": "beIN SPORTS SD",
+    "name": "beIN SPORTS 1 576P",
+    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/427072.ts"
   },
   {
     "tvg_id": "",
@@ -158,31 +204,6 @@
   },
   {
     "tvg_id": "",
-    "tvg_name": "beIN SPORTS 3 720P",
-    "tvg_logo": "https://onixtv.online/wp-content/uploads/2025/10/beinhdss.png",
-    "group_title": "beIN SPORTS HD",
-    "name": "beIN SPORTS 3 720P",
-    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/427140.ts"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "beIN SPORTS 3 En hd",
-    "tvg_logo": "https://onixtv.online/wp-content/uploads/2025/10/beinhdss.png",
-    "group_title": "beIN SPORTS HD",
-    "name": "beIN SPORTS 3 En hd",
-    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/427149.ts"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "beIN SPORTS 3 FR",
-    "tvg_logo": "https://onixtv.online/wp-content/uploads/2025/10/beinhdss.png",
-    "group_title": "beIN SPORTS HD",
-    "name": "beIN SPORTS 3 FR",
-    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/427152.ts"
-  },
-  
-  {
-    "tvg_id": "",
     "tvg_name": "beIN SPORTS 4 576P",
     "tvg_logo": "https://onixtv.online/wp-content/uploads/2025/10/beinsdss.png",
     "group_title": "beIN SPORTS SD",
@@ -191,28 +212,11 @@
   },
   {
     "tvg_id": "",
-    "tvg_name": "beIN SPORTS 4 720P",
-    "tvg_logo": "https://onixtv.online/wp-content/uploads/2025/10/beinhdss.png",
-    "group_title": "beIN SPORTS HD",
-    "name": "beIN SPORTS 4 720P",
-    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/427141.ts"
-  },
-  
-  {
-    "tvg_id": "",
     "tvg_name": "beIN SPORTS 5 576P",
     "tvg_logo": "https://onixtv.online/wp-content/uploads/2025/10/beinsdss.png",
     "group_title": "beIN SPORTS SD",
     "name": "beIN SPORTS 5 576P",
     "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/427076.ts"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "beIN SPORTS 5 720P",
-    "tvg_logo": "https://onixtv.online/wp-content/uploads/2025/10/beinhdss.png",
-    "group_title": "beIN SPORTS HD",
-    "name": "beIN SPORTS 5 720P",
-    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/427142.ts"
   },
   {
     "tvg_id": "",
@@ -224,27 +228,11 @@
   },
   {
     "tvg_id": "",
-    "tvg_name": "beIN SPORTS 6 720P",
-    "tvg_logo": "https://onixtv.online/wp-content/uploads/2025/10/beinhdss.png",
-    "group_title": "beIN SPORTS HD",
-    "name": "beIN SPORTS 6 720P",
-    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/427143.ts"
-  },
-  {
-    "tvg_id": "",
     "tvg_name": "beIN SPORTS 7 576P",
     "tvg_logo": "https://onixtv.online/wp-content/uploads/2025/10/beinsdss.png",
     "group_title": "beIN SPORTS SD",
     "name": "beIN SPORTS 7 576P",
     "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/427078.ts"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "beIN SPORTS 7 720P",
-    "tvg_logo": "https://onixtv.online/wp-content/uploads/2025/10/beinhdss.png",
-    "group_title": "beIN SPORTS HD",
-    "name": "beIN SPORTS 7 720P",
-    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/427144.ts"
   },
   {
     "tvg_id": "",
@@ -254,125 +242,13 @@
     "name": "beIN SPORTS 8 576P",
     "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/427079.ts"
   },
-  {
-    "tvg_id": "",
-    "tvg_name": "beIN SPORTS 8 720P",
-    "tvg_logo": "https://onixtv.online/wp-content/uploads/2025/10/beinhdss.png",
-    "group_title": "beIN SPORTS HD",
-    "name": "beIN SPORTS 8 720P",
-    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/427145.ts"
-  },
-  {
+    {
     "tvg_id": "",
     "tvg_name": "beIN SPORTS 9 576P",
     "tvg_logo": "https://onixtv.online/wp-content/uploads/2025/10/beinsdss.png",
     "group_title": "beIN SPORTS SD",
     "name": "beIN SPORTS 9 576P",
     "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/427080.ts"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "beIN SPORTS 9 720P",
-    "tvg_logo": "https://onixtv.online/wp-content/uploads/2025/10/beinhdss.png",
-    "group_title": "beIN SPORTS HD",
-    "name": "beIN SPORTS 9 720P",
-    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/427146.ts"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "beIN SPORTS NBA",
-    "tvg_logo": "https://onixtv.online/wp-content/uploads/2025/10/beinhdss.png",
-    "group_title": "beIN SPORTS HD",
-    "name": "beIN SPORTS NBA",
-    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/427153.ts"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "bein Sport HD1 720",
-    "tvg_logo": "https://onixtv.online/wp-content/uploads/2025/10/beinhdf.png",
-    "group_title": "beIN SPORTS HD",
-    "name": "bein Sport HD1 720",
-    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/427098.ts"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "bein Sport HD2 720",
-    "tvg_logo": "https://onixtv.online/wp-content/uploads/2025/10/beinhdf.png",
-    "group_title": "beIN SPORTS HD",
-    "name": "bein Sport HD2 720",
-    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/427099.ts"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "bein Sport HD3 720",
-    "tvg_logo": "https://onixtv.online/wp-content/uploads/2025/10/beinhdf.png",
-    "group_title": "beIN SPORTS HD",
-    "name": "bein Sport HD3 720",
-    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/427100.ts"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "bein Sport HD4 720",
-    "tvg_logo": "https://onixtv.online/wp-content/uploads/2025/10/beinhdf.png",
-    "group_title": "beIN SPORTS HD",
-    "name": "bein Sport HD4 720",
-    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/427101.ts"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "bein Sport HD5 720",
-    "tvg_logo": "https://onixtv.online/wp-content/uploads/2025/10/beinhdf.png",
-    "group_title": "beIN SPORTS HD",
-    "name": "bein Sport HD5 720",
-    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/427102.ts"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "bein Sport HD6 720",
-    "tvg_logo": "https://onixtv.online/wp-content/uploads/2025/10/beinhdf.png",
-    "group_title": "beIN SPORTS HD",
-    "name": "bein Sport HD6 720",
-    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/427103.ts"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "bein Sport HD7 720",
-    "tvg_logo": "https://onixtv.online/wp-content/uploads/2025/10/beinhdf.png",
-    "group_title": "beIN SPORTS HD",
-    "name": "bein Sport HD7 720",
-    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/427104.ts"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "bein Sport HD8 720",
-    "tvg_logo": "https://onixtv.online/wp-content/uploads/2025/10/beinhdf.png",
-    "group_title": "beIN SPORTS HD",
-    "name": "bein Sport HD8 720",
-    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/427105.ts"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "bein Sport HD9 720",
-    "tvg_logo": "https://onixtv.online/wp-content/uploads/2025/10/beinhdf.png",
-    "group_title": "beIN SPORTS HD",
-    "name": "bein Sport HD9 720",
-    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/427106.ts"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "bein Sport News HD",
-    "tvg_logo": "https://onixtv.online/wp-content/uploads/2025/10/beinhdf.png",
-    "group_title": "beIN SPORTS HD",
-    "name": "bein Sport News HD",
-    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/427097.ts"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "bein Sport News HD",
-    "tvg_logo": "https://onixtv.online/wp-content/uploads/2025/10/beinhdss.png",
-    "group_title": "beIN SPORTS HD",
-    "name": "bein Sport News HD",
-    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/427222.ts"
   },
   {
     "tvg_id": "",
@@ -446,6 +322,8 @@
     "name": "bein Sport SD9",
     "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/427095.ts"
   },
+  
+  
   {
     "tvg_id": "",
     "tvg_name": "bein SPORTS English 1 1080",
@@ -576,6 +454,7 @@
   }
   
 ]
+
 
 
 
