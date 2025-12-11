@@ -1,20 +1,5 @@
 [
-  {
-    "tvg_id": "",
-    "tvg_name": "AR: ALALAM SYRIA",
-    "tvg_logo": "http://onixtv.cc:80/images/bM3QQMcP9b4WoN_g0OXnB0EeOszJbZ0vaj_ld_L6dZosnul1O-cffBFyU6PfkhF0.png",
-    "group_title": "SYRIA _ سوريا",
-    "name": "AR: ALALAM SYRIA",
-    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/409533.ts"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "AR: ALKHABAR TV",
-    "tvg_logo": "http://onixtv.cc:80/images/bM3QQMcP9b4WoN_g0OXnB8iv6Je_27t7CrWFlLkoDN9QsSalZSfmTpJ8eSqW88D8.png",
-    "group_title": "SYRIA _ سوريا",
-    "name": "AR: ALKHABAR TV",
-    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/409532.ts"
-  },
+ 
   {
     "tvg_id": "",
     "tvg_name": "AR: ALYAUM TV 4K",
@@ -22,22 +7,6 @@
     "group_title": "SYRIA _ سوريا",
     "name": "AR: ALYAUM TV 4K",
     "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/409534.ts"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "AR: ASSYRIA SAT",
-    "tvg_logo": "http://onixtv.cc:80/images/bM3QQMcP9b4WoN_g0OXnByFIJ_14BW-UBWhP4k3Vndx-_jksRd6dREHfyivDlz3X.png",
-    "group_title": "SYRIA _ سوريا",
-    "name": "AR: ASSYRIA SAT",
-    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/409536.ts"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "AR: HALAB TODAY TV -6HOURS",
-    "tvg_logo": "http://onixtv.cc:80/images/bM3QQMcP9b4WoN_g0OXnB6DQEj_8qenU75H-ZIDa5rVzjVy0jmNTjlHCNcQtMFay.png",
-    "group_title": "SYRIA _ سوريا",
-    "name": "AR: HALAB TODAY TV -6HOURS",
-    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/409545.ts"
   },
   {
     "tvg_id": "",
@@ -49,51 +18,11 @@
   },
   {
     "tvg_id": "",
-    "tvg_name": "AR: LANA TV -6HOURS",
-    "tvg_logo": "http://onixtv.cc:80/images/bM3QQMcP9b4WoN_g0OXnBz-AT6ArT8ctdwuKXxpLLmRnorPr_mAiJW4X6_R4OYL9.png",
-    "group_title": "SYRIA _ سوريا",
-    "name": "AR: LANA TV -6HOURS",
-    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/409539.ts"
-  },
-  {
-    "tvg_id": "",
     "tvg_name": "AR: LANA TV HD",
     "tvg_logo": "http://onixtv.cc:80/images/bM3QQMcP9b4WoN_g0OXnBz-AT6ArT8ctdwuKXxpLLmRnorPr_mAiJW4X6_R4OYL9.png",
     "group_title": "SYRIA _ سوريا",
     "name": "AR: LANA TV HD",
     "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/409514.ts"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "AR: MINBIJ TV",
-    "tvg_logo": "http://onixtv.cc:80/images/bM3QQMcP9b4WoN_g0OXnB-zU4Cz9vPpx42e-2Zz0GVuOtQEhdjXcqd32nXFEOZvz.png",
-    "group_title": "SYRIA _ سوريا",
-    "name": "AR: MINBIJ TV",
-    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/409535.ts"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "AR: NOOR ALSHAM -6HOURS",
-    "tvg_logo": "http://onixtv.cc:80/images/bM3QQMcP9b4WoN_g0OXnB4EBqcVABjyCXe_1L3T5B1v2l8DfiIO7XfW8R8wZoPJv.png",
-    "group_title": "SYRIA _ سوريا",
-    "name": "AR: NOOR ALSHAM -6HOURS",
-    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/409544.ts"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "AR: NOUR ALSHAM",
-    "tvg_logo": "http://onixtv.cc:80/images/bM3QQMcP9b4WoN_g0OXnB4EBqcVABjyCXe_1L3T5B1v2l8DfiIO7XfW8R8wZoPJv.png",
-    "group_title": "SYRIA _ سوريا",
-    "name": "AR: NOUR ALSHAM",
-    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/409528.ts"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "AR: OSCAR TV 4K",
-    "tvg_logo": "",
-    "group_title": "SYRIA _ سوريا",
-    "name": "AR: OSCAR TV 4K",
-    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/409537.ts"
   },
   {
     "tvg_id": "",
@@ -111,22 +40,7 @@
     "name": "AR: SAKAKER TV",
     "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/409529.ts"
   },
-  {
-    "tvg_id": "",
-    "tvg_name": "AR: SAMA SYRIA -6HOURS",
-    "tvg_logo": "http://onixtv.cc:80/images/bM3QQMcP9b4WoN_g0OXnB7g0OCfiWVXf5rILLTldDGG--YTS1EgMdqR_DBA1YcOb.png",
-    "group_title": "SYRIA _ سوريا",
-    "name": "AR: SAMA SYRIA -6HOURS",
-    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/409542.ts"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "AR: SAMA TV",
-    "tvg_logo": "http://onixtv.cc:80/images/bM3QQMcP9b4WoN_g0OXnB7g0OCfiWVXf5rILLTldDGG--YTS1EgMdqR_DBA1YcOb.png",
-    "group_title": "SYRIA _ سوريا",
-    "name": "AR: SAMA TV",
-    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/409517.ts"
-  },
+  
   {
     "tvg_id": "",
     "tvg_name": "AR: SAMA TV HD",
@@ -135,30 +49,8 @@
     "name": "AR: SAMA TV HD",
     "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/409516.ts"
   },
-  {
-    "tvg_id": "",
-    "tvg_name": "AR: SHAM FM TV",
-    "tvg_logo": "http://onixtv.cc:80/images/bM3QQMcP9b4WoN_g0OXnB1653GyzMDInbTXV8fv6ejyi_bQcGSAYr_8Hr_EKb3kU.png",
-    "group_title": "SYRIA _ سوريا",
-    "name": "AR: SHAM FM TV",
-    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/409530.ts"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "AR: SOURYANA TV",
-    "tvg_logo": "http://onixtv.cc:80/images/bM3QQMcP9b4WoN_g0OXnBwRk9UIdEyD3w9otboKEG_UG_44gCmxJ27zADyUSBOE7.png",
-    "group_title": "SYRIA _ سوريا",
-    "name": "AR: SOURYANA TV",
-    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/409531.ts"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "AR: SYRIA 2 4K",
-    "tvg_logo": "http://onixtv.cc:80/images/bM3QQMcP9b4WoN_g0OXnBzdvR5sILggB9xnpw4b4guKaEUt05HPomZisn0oK7wVw.png",
-    "group_title": "SYRIA _ سوريا",
-    "name": "AR: SYRIA 2 4K",
-    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/409523.ts"
-  },
+ 
+  
   {
     "tvg_id": "",
     "tvg_name": "AR: SYRIA 2 HD",
@@ -167,62 +59,8 @@
     "name": "AR: SYRIA 2 HD",
     "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/409524.ts"
   },
-  {
-    "tvg_id": "",
-    "tvg_name": "AR: SYRIA 4K",
-    "tvg_logo": "http://onixtv.cc:80/images/bM3QQMcP9b4WoN_g0OXnBwrly7R3eFlcWWtb8kuaMlZ_BNzLwuvaqkIno1qaVkMN.png",
-    "group_title": "SYRIA _ سوريا",
-    "name": "AR: SYRIA 4K",
-    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/409520.ts"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "AR: SYRIA CH1 TV",
-    "tvg_logo": "http://onixtv.cc:80/images/bM3QQMcP9b4WoN_g0OXnB8RfS5_tDJovJdAvuPxYM5_szD7bnqlAlaqIWuxpJmyx.png",
-    "group_title": "SYRIA _ سوريا",
-    "name": "AR: SYRIA CH1 TV",
-    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/409522.ts"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "AR: SYRIA DRAMA",
-    "tvg_logo": "http://onixtv.cc:80/images/bM3QQMcP9b4WoN_g0OXnB9FNqLny5HZNBW7oc-2QJpbAV49KvArUayeczHaSBCFi.png",
-    "group_title": "SYRIA _ سوريا",
-    "name": "AR: SYRIA DRAMA",
-    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/409519.ts"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "AR: SYRIA DRAMA -6HOURS",
-    "tvg_logo": "http://onixtv.cc:80/images/bM3QQMcP9b4WoN_g0OXnB9FNqLny5HZNBW7oc-2QJpbAV49KvArUayeczHaSBCFi.png",
-    "group_title": "SYRIA _ سوريا",
-    "name": "AR: SYRIA DRAMA -6HOURS",
-    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/409541.ts"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "AR: SYRIA DRAMA 24 -6HOURS",
-    "tvg_logo": "http://onixtv.cc:80/images/bM3QQMcP9b4WoN_g0OXnByuZtN7IAAn0Te8lwJ9pmfMN--cJUhfFm6v68QIWQ8Le5EKCc2mr3dsTf6tIcpJ5_w.png",
-    "group_title": "SYRIA _ سوريا",
-    "name": "AR: SYRIA DRAMA 24 -6HOURS",
-    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/409540.ts"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "AR: SYRIA DRAMA HD",
-    "tvg_logo": "http://onixtv.cc:80/images/bM3QQMcP9b4WoN_g0OXnB9FNqLny5HZNBW7oc-2QJpbAV49KvArUayeczHaSBCFi.png",
-    "group_title": "SYRIA _ سوريا",
-    "name": "AR: SYRIA DRAMA HD",
-    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/409518.ts"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "AR: SYRIA EDUCATION",
-    "tvg_logo": "http://onixtv.cc:80/images/bM3QQMcP9b4WoN_g0OXnB3nfwXbTr3ELKMGYj5gLDG-gbIdq2UVXKTj_sdTLlfiZ.png",
-    "group_title": "SYRIA _ سوريا",
-    "name": "AR: SYRIA EDUCATION",
-    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/409527.ts"
-  },
+
+
   {
     "tvg_id": "",
     "tvg_name": "AR: SYRIA HD",
@@ -239,30 +77,8 @@
     "name": "AR: SYRIA NEWS",
     "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/409525.ts"
   },
-  {
-    "tvg_id": "",
-    "tvg_name": "AR: SYRIA NEWS TV",
-    "tvg_logo": "http://onixtv.cc:80/images/bM3QQMcP9b4WoN_g0OXnB2jdiySeCTJ-Xz5W58pMyEFq9TIa7fu92FphXwoKKfOq.png",
-    "group_title": "SYRIA _ سوريا",
-    "name": "AR: SYRIA NEWS TV",
-    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/409526.ts"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "AR: SYRIA TV -6HOURS",
-    "tvg_logo": "http://onixtv.cc:80/images/bM3QQMcP9b4WoN_g0OXnBwrly7R3eFlcWWtb8kuaMlZ_BNzLwuvaqkIno1qaVkMN.png",
-    "group_title": "SYRIA _ سوريا",
-    "name": "AR: SYRIA TV -6HOURS",
-    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/409543.ts"
-  },
-  {
-    "tvg_id": "",
-    "tvg_name": "IRAQ: Al Iraqia Syriac HD",
-    "tvg_logo": "http://onixtv.cc:80/images/j2JIxoJMU5fPnzAxyulXbexYuLbcMe_lSNA6xu0MeCNA-Wk0EqMVsWgUQRqBEpN1ln_31apBfVyLzzkRbndjG4D12SPFQb4nXwxZAL1AOuPRWTNUYRYqSFDYdCBH0FiRJHnh_hjZE96oZ6410HXmULvLatTk-Mt5GB3TihTnm64.png",
-    "group_title": "IRAQ _ العراق",
-    "name": "IRAQ: Al Iraqia Syriac HD",
-    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/410820.ts"
-  },
+
+
   {
     "tvg_id": "",
     "tvg_name": "SP: Syria Sports TV",
@@ -273,10 +89,11 @@
   },
   {
     "tvg_id": "",
-    "tvg_name": "Syriana",
+    "tvg_name": "Syriana فلم",
     "tvg_logo": "http://onixtv.cc:80/images/141201.jpg",
     "group_title": "ENGLISH متنوعة 2 - إنجليزي",
     "name": "Syriana",
     "url": "http://onixtv.cc:80/movie/963994604748/jfog87dueuejdk/306657.mp4"
   }
+
 ]
