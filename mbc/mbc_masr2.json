@@ -1,0 +1,26 @@
+[
+  {
+    "tvg_id": "",
+    "tvg_name": "AR: MBC MASR2 4K",
+    "tvg_logo": "https://shahid.mbc.net/mediaObject/0da1c6ad-b49e-470d-b1b3-d2f1b0f7226d?height=auto&width=288&croppingPoint=&version=1&type=avif",
+    "group_title": "MBC MASR2",
+    "name": "MBC MASR2 4K",
+    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/409070.ts"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "AR: MBC MASR2 HD",
+    "tvg_logo": "https://shahid.mbc.net/mediaObject/0da1c6ad-b49e-470d-b1b3-d2f1b0f7226d?height=auto&width=288&croppingPoint=&version=1&type=avif",
+    "group_title": "MBC MASR2",
+    "name": "MBC MASR2 HD",
+    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/409040.ts"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "AR: MBC MASR2 SD",
+    "tvg_logo": "https://shahid.mbc.net/mediaObject/0da1c6ad-b49e-470d-b1b3-d2f1b0f7226d?height=auto&width=288&croppingPoint=&version=1&type=avif",
+    "group_title": "MBC MASR2",
+    "name": "MBC MASR2 SD",
+    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/409024.ts"
+  }
+]
