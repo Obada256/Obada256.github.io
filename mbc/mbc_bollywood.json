@@ -1,0 +1,18 @@
+[
+  {
+    "tvg_id": "",
+    "tvg_name": "AR: MBC BOLLYWOOD HD",
+    "tvg_logo": "https://shahid.mbc.net/mediaObject/799fb041-289c-4709-b009-bca666425ec8?height=auto&width=288&croppingPoint=&version=1&type=avif",
+    "group_title": "MBC BOLLYWOOD",
+    "name": "MBC BOLLYWOOD HD",
+    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/409043.ts"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "AR: MBC BOLLYWOOD SD",
+    "tvg_logo": "https://shahid.mbc.net/mediaObject/799fb041-289c-4709-b009-bca666425ec8?height=auto&width=288&croppingPoint=&version=1&type=avif",
+    "group_title": "MBC BOLLYWOOD",
+    "name": "MBC BOLLYWOOD SD",
+    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/409026.ts"
+  }
+}
