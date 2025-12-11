@@ -1,0 +1,27 @@
+[
+  {
+    "tvg_id": "",
+    "tvg_name": "AR: MBC VAIRITY UHD",
+    "tvg_logo": "https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_variety_aaa60f39e8.svg",
+    "group_title": "MBC VAREITY",
+    "name": "MBC VAIRITY UHD",
+    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/409063.ts"
+  },
+
+  {
+    "tvg_id": "",
+    "tvg_name": "AR: MBC Variety 4K",
+    "tvg_logo": "https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_variety_aaa60f39e8.svg",
+    "group_title": "MBC VARIETY",
+    "name": "MBC Variety 4K",
+    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/409062.ts"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "AR: MBC Variety HD",
+    "tvg_logo": "https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_variety_aaa60f39e8.svg",
+    "group_title": "MBC VARIETY",
+    "name": "MBC Variety HD",
+    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/409036.ts"
+  }
+]
