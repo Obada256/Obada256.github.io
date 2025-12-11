@@ -1,0 +1,34 @@
+[
+  {
+    "tvg_id": "",
+    "tvg_name": "AR: MBC ACTION 4K",
+    "tvg_logo": "https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_action_33b48024b3.svg",
+    "group_title": "MBC ACTION",
+    "name": "MBC ACTION 4K",
+    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/409058.ts"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "AR: MBC ACTION HD",
+    "tvg_logo": "https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_action_33b48024b3.svg",
+    "group_title": "MBC ACTION",
+    "name": "MBC ACTION HD",
+    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/409035.ts"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "AR: MBC ACTION SD",
+    "tvg_logo": "https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_action_33b48024b3.svg",
+    "group_title": "MBC ACTION",
+    "name": "MBC ACTION SD",
+    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/409020.ts"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "AR: MBC ACTION UHD",
+    "tvg_logo": "https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_action_33b48024b3.svg",
+    "group_title": "MBC ACTION",
+    "name": "MBC ACTION UHD",
+    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/409059.ts"
+  }
+]
