@@ -1,0 +1,34 @@
+[  
+  {
+    "tvg_id": "",
+    "tvg_name": "AR: MBC5 4K",
+    "tvg_logo": "https://shahid.mbc.net/mediaObject/79e74307-193a-4b28-9ccb-b618aae07962?height=auto&width=288&croppingPoint=&version=1&type=avif",
+    "group_title": "MBC5",
+    "name": "MBC5 4K",
+    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/409054.ts"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "AR: MBC5 HD",
+    "tvg_logo": "https://shahid.mbc.net/mediaObject/79e74307-193a-4b28-9ccb-b618aae07962?height=auto&width=288&croppingPoint=&version=1&type=avif",
+    "group_title": "MBC5",
+    "name": "MBC5 HD",
+    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/409032.ts"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "AR: MBC5 SD",
+    "tvg_logo": "https://shahid.mbc.net/mediaObject/79e74307-193a-4b28-9ccb-b618aae07962?height=auto&width=288&croppingPoint=&version=1&type=avif",
+    "group_title": "MBC5",
+    "name": "MBC5 SD",
+    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/409018.ts"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "AR: MBC5 UHD",
+    "tvg_logo": "https://shahid.mbc.net/mediaObject/79e74307-193a-4b28-9ccb-b618aae07962?height=auto&width=288&croppingPoint=&version=1&type=avif",
+    "group_title": "MBC5",
+    "name": "MBC5 UHD",
+    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/409055.ts"
+  }
+]
