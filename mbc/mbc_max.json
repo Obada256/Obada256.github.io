@@ -1,0 +1,34 @@
+[
+  {
+    "tvg_id": "",
+    "tvg_name": "AR: MBC MAX 4K",
+    "tvg_logo": "https://shahid.mbc.net/mediaObject/dc80d00a-4769-48dc-a952-9e59d2d9d3b5?height=auto&width=288&croppingPoint=&version=1&type=avif",
+    "group_title": "MBC MAX",
+    "name": "MBC MAX 4K",
+    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/409060.ts"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "AR: MBC MAX HD",
+    "tvg_logo": "https://shahid.mbc.net/mediaObject/dc80d00a-4769-48dc-a952-9e59d2d9d3b5?height=auto&width=288&croppingPoint=&version=1&type=avif",
+    "group_title": "MBC MAX",
+    "name": "MBC MAX HD",
+    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/409034.ts"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "AR: MBC MAX SD",
+    "tvg_logo": "https://shahid.mbc.net/mediaObject/dc80d00a-4769-48dc-a952-9e59d2d9d3b5?height=auto&width=288&croppingPoint=&version=1&type=avif",
+    "group_title": "MBC MAX",
+    "name": "MBC MAX SD",
+    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/409019.ts"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "AR: MBC MAX UHD",
+    "tvg_logo": "https://shahid.mbc.net/mediaObject/dc80d00a-4769-48dc-a952-9e59d2d9d3b5?height=auto&width=288&croppingPoint=&version=1&type=avif",
+    "group_title": "MBC MAX",
+    "name": "MBC MAX UHD",
+    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/409061.ts"
+  }
+]
