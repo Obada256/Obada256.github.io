@@ -1,0 +1,19 @@
+[
+  {
+    "tvg_id": "",
+    "tvg_name": "AR: MBC ELIFE 4K",
+    "tvg_logo": "https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/mbcpluselife-active.svg",
+    "group_title": "MBC ELIFE",
+    "name": "MBC ELIFE 4K",
+    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/409056.ts"
+  },
+  
+  {
+    "tvg_id": "",
+    "tvg_name": "AR: MBC ELIFE UHD",
+    "tvg_logo": "https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/mbcpluselife-active.svg",
+    "group_title": "MBC ELIFE",
+    "name": "MBC ELIFE UHD",
+    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/409057.ts"
+  }
+]
