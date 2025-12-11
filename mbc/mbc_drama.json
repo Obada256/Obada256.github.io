@@ -1,0 +1,34 @@
+[
+  {
+    "tvg_id": "",
+    "tvg_name": "AR: MBC DRAMA 4K",
+    "tvg_logo": "https://shahid.mbc.net/mediaObject/7ccc7980-2151-441f-b862-494961bcf2d9?height=auto&width=288&croppingPoint=&version=1&type=avif",
+    "group_title": "MBC DRAMA",
+    "name": "MBC DRAMA 4K",
+    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/409064.ts"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "AR: MBC DRAMA HD",
+    "tvg_logo": "https://shahid.mbc.net/mediaObject/7ccc7980-2151-441f-b862-494961bcf2d9?height=auto&width=288&croppingPoint=&version=1&type=avif",
+    "group_title": "MBC DRAMA",
+    "name": "MBC DRAMA HD",
+    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/409037.ts"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "AR: MBC DRAMA SD",
+    "tvg_logo": "https://shahid.mbc.net/mediaObject/7ccc7980-2151-441f-b862-494961bcf2d9?height=auto&width=288&croppingPoint=&version=1&type=avif",
+    "group_title": "MBC DRAMA",
+    "name": "MBC DRAMA SD",
+    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/409021.ts"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "AR: MBC DRAMA UHD",
+    "tvg_logo": "https://shahid.mbc.net/mediaObject/7ccc7980-2151-441f-b862-494961bcf2d9?height=auto&width=288&croppingPoint=&version=1&type=avif",
+    "group_title": "MBC DRAMA",
+    "name": "MBC DRAMA UHD",
+    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/409065.ts"
+  }
+]
