@@ -1,0 +1,26 @@
+[
+  {
+    "tvg_id": "",
+    "tvg_name": "AR: MBC PERSIA 4K",
+    "tvg_logo": "https://shahid.mbc.net/mediaObject/8ed9d5e9-77c8-41d7-9bab-96dbb46ecde4?height=auto&width=288&croppingPoint=&version=1&type=avif",
+    "group_title": "MBC PERSIA",
+    "name": "MBC PERSIA 4K",
+    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/409075.ts"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "AR: MBC PERSIA HD",
+    "tvg_logo": "https://shahid.mbc.net/mediaObject/8ed9d5e9-77c8-41d7-9bab-96dbb46ecde4?height=auto&width=288&croppingPoint=&version=1&type=avif",
+    "group_title": "MBC PERSIA",
+    "name": "MBC PERSIA HD",
+    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/409044.ts"
+  },
+  {
+    "tvg_id": "",
+    "tvg_name": "AR: MBC PERSIA SD",
+    "tvg_logo": "https://shahid.mbc.net/mediaObject/8ed9d5e9-77c8-41d7-9bab-96dbb46ecde4?height=auto&width=288&croppingPoint=&version=1&type=avif",
+    "group_title": "MBC PERSIA",
+    "name": "MBC PERSIA SD",
+    "url": "http://onixtv.cc:80/963994604748/jfog87dueuejdk/409027.ts"
+  }
+]
